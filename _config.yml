@@ -1,0 +1,37 @@
+# Site settings
+title:       skibeta::dev()
+email:       dev@skibeta.com
+author:      "Francesc Bruguera & Enric Florit"
+description: "Developer's blog for skibeta."
+baseurl:     ""
+url:         "http://dev.skibeta.com"
+
+# Google analytics
+google_analytics:
+
+# Optional features
+animated:           false
+show_related_posts: false
+show_post_footers:  true
+
+# Disqus post comments
+# (leave blank to disable Disqus)
+disqus_shortname:
+
+# Social icons
+show_social_icons: true
+github_username:
+stackoverflow_id:
+twitter_username: skibeta
+google_plus_id:
+linkedin_username:
+bitcoin_url:
+paypal_url:
+flattr_button:
+
+# Build settings
+markdown:     kramdown
+permalink:    pretty
+paginate:     3
+sass:
+  compressed: true
